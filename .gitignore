@@ -1,0 +1,17 @@
+# Archivos de bloqueo temporales de Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Archivos temporales de sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivos temporales de Python (scripts auxiliares puntuales)
+__pycache__/
+*.pyc
+
+# Archivos de scratch/verificación generados durante sesiones de trabajo
+scratch_*.txt
+verify_out.txt
